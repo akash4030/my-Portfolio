@@ -6,3 +6,9 @@ module.exports = {
     },
     plugins: [],
   }
+  module.exports = {
+    //...
+    daisyui: {
+      themes: ["aqua"],
+    },
+  }
